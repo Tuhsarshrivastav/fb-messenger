@@ -1,3 +1,18 @@
+## Fb-messenger-clone 🚀 🚀 🚀
+Live Demo 👉 https://fb-messenger-clone-6b6f2.web.app/
+
+![Screenshot from 2021-03-28 08-33-05](https://user-images.githubusercontent.com/74534919/112741187-fbfaf780-8fa0-11eb-96a8-f499ce60208f.png)
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+     <li>Real-time-chat-functionality</li>
+  </ul>
+</details>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
